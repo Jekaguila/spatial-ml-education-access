@@ -38,23 +38,22 @@ Datos principales
 - Coordenadas de escuelas públicas
 - Matrícula, infraestructura, rendimiento académico
 - Capas geográficas:
-- carreteras
-- transporte público
-- densidad poblacional
-- zonas rurales/urbanas
+  -  carreteras
+  -  transporte público
+  -  ensidad poblacional
+  -  zonas rurales/urbanas
 - Indicadores socioeconómicos municipales
 Procesos aplicados
 - Limpieza y normalización
 - Geocodificación
 - Spatial Join
 - Cálculo de distancias:
-- euclidiana
-- por red vial (si se dispone)
+  (euclidiana y por red vial (si se dispone))
 - Feature engineering espacial:
-- nearest school distance
-- school density
-- travel time
-- accessibility index
+    -nearest school distance
+    -school density
+    -travel time
+    -accessibility index
 
 🧠 Metodología
 El proyecto sigue un pipeline reproducible:
