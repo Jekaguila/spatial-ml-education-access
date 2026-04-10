@@ -1,5 +1,5 @@
 # spatial-ml-education-access
-spatial-ml-education-access
+Spatial-ml-education-access
 
 ## Información del Proyecto
 
