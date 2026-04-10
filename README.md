@@ -37,6 +37,7 @@ El proyecto se divide en fases críticas que integran el rigor pedagógico con l
 Core Stack
 •	Lenguaje: Python (GeoPandas, Scikit-learn, Shapely, PySAL).
 •	Geo-Data: OpenStreetMap, capas de red vial y datos censales.
+
 📊 Hallazgos Clave (Preview)
 (Aquí incluirás una captura de tus mapas de calor o clusters una vez generados).
 •	Desigualdad Territorial: Se identificaron brechas significativas en zonas rurales donde la distancia promedio supera los 5 km por red vial.
