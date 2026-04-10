@@ -24,6 +24,7 @@ Spatial ML for Education Access: Inteligencia Geográfica para la Equidad Educat
 📌 Resumen Ejecutivo
 En muchas naciones, la ubicación geográfica de un estudiante determina su destino académico. Este proyecto utiliza Machine Learning y Sistemas de Información Geográfica (GIS) para analizar la accesibilidad física a las escuelas públicas y detectar patrones espaciales de desigualdad educativa.
 El objetivo principal es identificar "zonas rojas" de exclusión y proporcionar insumos basados en datos para el diseño de políticas públicas, planificación de transporte y ubicación de nueva infraestructura escolar.
+
 🔍 Preguntas de Investigación
 •	¿Qué tan accesibles son las escuelas públicas según su ubicación geográfica real? 
 •	¿Existen patrones espaciales que correlacionen la baja accesibilidad con indicadores de pobreza? 
